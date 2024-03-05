@@ -1,0 +1,11 @@
+data/AnimeQuotes-Original.pkl
+data/anime_songs_lists_urls-v0.pkl
+data/AnimeSongsLyrics1.parquet
+data/AnimeSongsLyrics1.pkl
+
+test.py
+ll.py
+train-00000-of-00001 (1).parquet
+
+# Ignore the folder and its contents
+/xyz/*
